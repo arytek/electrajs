@@ -1,0 +1,26 @@
+{
+  "name": "electra",
+  "version": "1.0.0",
+  "description": "A NodeJS implementation of the Electra protocol.",
+  "main": "electra.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "electra",
+    "energy",
+    "management",
+    "energy",
+    "iot",
+    "electricity",
+    "electronics",
+    "solar",
+    "battery",
+    "routing"
+  ],
+  "author": "Aryan Nateghnia",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
